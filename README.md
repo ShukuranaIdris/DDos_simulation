@@ -1,4 +1,4 @@
-Simple UDP Packet Sender
+##Simple UDP Packet Sender
 
 A lightweight Python script designed to test network latency and packet transmission across designated ports using UDP sockets.
 
@@ -12,4 +12,4 @@ A lightweight Python script designed to test network latency and packet transmis
 # Usage
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/ShukuranaIdris/DDos_simulation.git]
+   git clone https://github.com/ShukuranaIdris/DDos_simulation.git
